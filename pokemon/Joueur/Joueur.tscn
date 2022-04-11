@@ -11,22 +11,22 @@ animations = [ {
 }, {
 "frames": [  ],
 "loop": true,
-"name": "droite",
-"speed": 5.0
-}, {
-"frames": [  ],
-"loop": true,
-"name": "gauche",
-"speed": 5.0
-}, {
-"frames": [  ],
-"loop": true,
 "name": "recule",
 "speed": 5.0
 }, {
 "frames": [  ],
 "loop": true,
+"name": "droite",
+"speed": 5.0
+}, {
+"frames": [  ],
+"loop": true,
 "name": "avance",
+"speed": 5.0
+}, {
+"frames": [  ],
+"loop": true,
+"name": "gauche",
 "speed": 5.0
 } ]
 
