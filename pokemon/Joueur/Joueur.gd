@@ -24,3 +24,8 @@ func _physics_process(delta):
 	elif Input.is_action_pressed("vers_la_gauche") :
 		position.x -=3
 		$joueur.animation = 'gauche'
+
+
+#func _on_Sprite_frame_changed():
+#	if Input.is_action_pressed("avancer") :
+		

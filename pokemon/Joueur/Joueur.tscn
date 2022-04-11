@@ -43,3 +43,5 @@ texture = ExtResource( 2 )
 normal_map = ExtResource( 2 )
 hframes = 3
 vframes = 4
+
+[connection signal="frame_changed" from="Sprite" to="." method="_on_Sprite_frame_changed"]
